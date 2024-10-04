@@ -55,4 +55,4 @@ Thanks to everyone who contributed to this project and its development.
 
 ---
 
-Make sure to replace `https://github.com/yourusername/employee-details-application.git` with the actual repository URL where your application will be hosted on GitHub.
+Make sure to replace `https://github.com/Codingraha1/Java-Full-Stack-Development-Project.git` with the actual repository URL where your application will be hosted on GitHub.
