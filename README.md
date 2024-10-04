@@ -15,7 +15,7 @@ The **Employee Details Application** is a simple Java-based console application 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/employee-details-application.git
-   cd employee-details-application
+   
    ```
 
 2. **Compile the Java files**
